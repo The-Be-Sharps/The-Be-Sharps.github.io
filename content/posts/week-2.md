@@ -4,6 +4,7 @@ date: 2021-09-13T17:48:14+01:00
 draft: false
 author: "Jared Mullin"
 ShowReadingTime: true
+disableShare: false
 ---
 
 The whole team met today following the lecture in the library to try and come up with an idea for a product or service to move forward with next week. We struggled to come up with ideas. Our initial thoughts were to work on something related to COVID-19, but we wanted to create a product or service that would last beyond the pandemic. I mentioned that many industries are moving towards working from home, and that it seems like it will persist beyond the pandemic. We tried discussing problems we experienced while working from home. Most of the problems we experienced were related to ergonomics and working environment. We also talked about connecting with work colleagues. 
