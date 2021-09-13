@@ -1,0 +1,19 @@
+baseURL: "https://the-be-sharps.github.io/"
+title: "The Be Sharps"
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  minifyOutput: true
+
+params:
+  env: production
+  title: The Be Sharps
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "The Be Sharps"
+    Content: "The Be Sharps is made up of Máirtín Ó Flatharta, Tadhg Codyre, Mark Fahy, and Jared Mullin, all of whom are 4th year Computer Science & Information Technology students at the National University of Ireland, Galway. The team was formed as part of the Advanced Professional Skills module. This blog is where progress updates will be posted."
