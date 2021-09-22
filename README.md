@@ -4,6 +4,12 @@ The Be Sharps blog uses Hugo and the PaperMod theme.
 
 ## Getting Started
 
+Clone a copy of this repository to your machine using the following command (to ensure you clone the PaperMod Hugo theme)
+
+```sh
+git clone --recurse-submodules git@github.com:The-Be-Sharps/The-Be-Sharps.github.io.git
+```
+
 To run a local instance of the blog (along with drafts enabled)
 
 ``` sh
