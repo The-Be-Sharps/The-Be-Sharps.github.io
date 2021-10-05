@@ -12,12 +12,12 @@ The first thing we did this meeting was discuss what we did. Máirtín did the c
 Here is the Market Segmentation:
 |End User|Online Gamblers|Microtransaction User|Online Shopping|
 |---|---|---|---|
-| Application | Preventation of spending too much money | <= | <= 
-| Benefits | Imporve money management | <= | <= 
+| Application | Prevention of spending too much money | <= | <= 
+| Benefits | Improve money management | <= | <= 
 | Problem addressed | Gambling addiction | Microtransaction addiction / children spending gamers | Shopping addiction 
-| Market Characterisitcs | 18+ | gamers | anyone 
+| Market Characteristics | 18+ | gamers | anyone 
 | Size of Market | International | <= | <= 
 | Competition | Gamban | Microsoft/Sony | Banks? 
 | My USP | How/Now/Wow | <= | <= |
 
-Furhtermore, we did research into the number of gamblers, the value of the gambling industry and also around the world.
+Furthermore, we did research into the number of gamblers, the value of the gambling industry and also around the world.
