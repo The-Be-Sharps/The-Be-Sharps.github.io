@@ -3,11 +3,7 @@ name: Check Spelling
 on:
   pull_request:
     paths:
-    - '**.js'
-    - '**.vue'
-    - '**.txt'
-    - '**.html'
-    - '**.md'
+    - 'content/posts/**.md'
 jobs:
   spelling:
     runs-on: ubuntu-latest
