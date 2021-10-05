@@ -7,7 +7,7 @@ ShowReadingTime: true
 disableShare: false
 ---
 
-The first thing we did this meeting was discuss what we did. Máirtín did the comments for the other groups, while Jared and Mark did the discussion board post. Tadhg was unavailable, which is why he is writing the blog post. We reviewed the comments our peers gave to us on our Blackboard post. 
+The fiirst thing we did this meeting was discuss what we did. Máirtín did the comments for the other groups, while Jared and Mark did the discussion board post. Tadhg was unavailable, which is why he is writing the blog post. We reviewed the comments our peers gave to us on our Blackboard post. 
 
 Here is the Market Segmentation:
 |End User|Online Gamblers|Microtransaction User|Online Shopping|
