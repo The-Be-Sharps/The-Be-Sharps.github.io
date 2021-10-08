@@ -1,6 +1,6 @@
 # The Be Sharps - Blog
 
-The Be Sharps blog uses Hugo and the PaperMod theme. The Be Sharps blog is hosted using Github Pages at the-be-sharps.github.io
+The Be Sharps blog uses Hugo and the PaperMod theme. The Be Sharps blog is hosted using Github Pages at https://the-be-sharps.github.io
 
 ## Getting Started
 
